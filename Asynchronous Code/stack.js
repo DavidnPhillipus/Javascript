@@ -1,0 +1,1 @@
+// The call stack is a data structure that follows the Last In First Out (LIFO) principle. It allows adding and removing elements in a specific order. Below is a simple implementation of a stack in JavaScript:

@@ -29,4 +29,5 @@ doStuff(1 , 2 , "Kyle")
 
 
 
+//Call Stack is a data structure that keeps track of the function calls in a program. It follows the Last In First Out (LIFO) principle, meaning that the last function called is the first one to be completed and removed from the stack. When a function is called, it is added to the top of the call stack, and when it completes, it is removed from the stack. This allows the program to keep track of which functions are currently executing and in what order they were called.  
 
